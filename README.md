@@ -7,6 +7,8 @@ Please make sure that your machine have these **Visual Studio 2017** and **.Net 
 
 ## How to Use
 1. Open Visual Studio 2017 IDE
+2. Update the property value in the **EmailService/appSettings.json**
+    - the application read the config from this JSON file and use it to contain the Email Provider
 2. Right-click **EmailService** solution and select **Rebuild Solution**
 3. Once the build has been completed successfully, please press **F5** to run the project
 4. The default url will be *http://localhost:51296/*
