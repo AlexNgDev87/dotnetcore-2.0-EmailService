@@ -12,5 +12,6 @@ Please make sure that your machine have these **Visual Studio 2017** and **.Net 
 4. The default url will be *http://localhost:51296/*
 
 **Important Note:** 
+
 When the application is running, a browser will opened up. 
 Please do not close the browser, because that will stop the application.
